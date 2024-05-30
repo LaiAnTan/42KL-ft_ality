@@ -1,0 +1,48 @@
+Street Fighter 6 - Ryu (Modern Controls)
+
+---
+
+n | [N] | Neutral
+w | [U] | Up
+s | [D] | Down
+a | [L] | Left
+d | [R] | Right
+g | [G] | Grab
+l | [LA] | Low Attack
+m | [MA] | Middle Attack
+h | [HA] | High Attack
+z | [SP] | Special
+i | [DI] | Drive Impact
+p | [DP] | Drive Parry
+
+---
+
+// Special Moves
+Hadoken = [N]:[SP]
+Shoryuken = [R]:[SP]
+Tatsumaki Senpu-kyaku = [L]:[SP]
+High Blade Kick = [D]:[SP]
+Aerial Tatsumaki Senpu-kayku = [U]:[R]:[SP] | [U]:[L]:[SP]
+
+// Super Arts
+Shinku Hadoken = [N]:[SP]:[HA]
+Shin Hashogeki = [R]:[SP]:[HA]
+Shin Shoryuken = [D]:[SP]:[HA]
+
+// Unique Attacks
+Collarbone Breaker = [R]:[MA]
+Axe Kick = [L]:[HA]
+Whirlwind Kick = [R]:[HA]
+Low Spinning Sweep = [R]:[D]:[HA]
+High Double Strike = [HA]:[HA]
+Fuwa Triple Strike = [MA]:[MA]:[MA]
+
+// Throws
+Shoulder Throw = [R]:[G] | [R]:[LA]:[MA] | [N]:[G] | [N]:[LA]:[MA]
+Somersault Throw = [L]:[G] | [L]:[LA]:[MA]
+
+// Common Moves
+Drive Impact: Shingeki = [DI]
+Drive Reversal: Chest Strike = [R]:[DI]
+Drive Parry = [DP]
+Drive Parry Rush = [DP]:[R]:[R]
